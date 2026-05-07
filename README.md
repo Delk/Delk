@@ -1,5 +1,6 @@
-<div align="center">
+# Hi, I'm Delk
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Delk&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=AI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20Product%20Maker&descSize=18&descAlignY=58" alt="Delk header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+AI-powered+tools+that+solve+real+problems.;Shipping+full-stack+products+from+idea+to+interface.;Exploring+automation%2C+data%2C+finance%2C+and+content+intelligence.)](https://git.io/typing-svg)
