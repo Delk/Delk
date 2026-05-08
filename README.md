@@ -29,9 +29,9 @@ Currently exploring:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [TIBAO](https://github.com/Delk/tibao) | 高校题库协同、资源分发与智能刷题平台。 | `PHP` `MySQL` `Bootstrap` |
-| [XiaoLiJi / 小理基](https://github.com/Delk/xiaoliji) | AI 驱动的基金组合分析、回测与模拟理财工具。 | `Next.js` `TypeScript` `Supabase` |
-| [Universal Video Insight Extractor](https://github.com/Delk/universal-video-extractor) | 跨平台视频文案、字幕与语音转文字提取工具。 | `Python` `Whisper` `Gradio` |
+| [TIBAO](https://github.com/Delk/tibao) | Question bank platform for study, sharing, and practice workflows. | `PHP` `MySQL` `Bootstrap` |
+| [XiaoLiJi](https://github.com/Delk/xiaoliji) | AI-powered fund portfolio analysis, backtesting, and simulation. | `Next.js` `TypeScript` `Supabase` |
+| [Universal Video Insight Extractor](https://github.com/Delk/universal-video-extractor) | Transcript and subtitle extraction for videos across multiple platforms. | `Python` `Whisper` `Gradio` |
 
 ---
 
@@ -56,13 +56,8 @@ Currently exploring:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Delk&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=E5E7EB" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delk&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
 ![Profile views](https://komarev.com/ghpvc/?username=Delk&style=for-the-badge&color=0ea5e9)
+![Followers](https://img.shields.io/github/followers/Delk?style=for-the-badge&color=38bdf8&label=FOLLOWERS)
+![Public repos](https://img.shields.io/badge/PUBLIC_REPOS-3-22d3ee?style=for-the-badge)
 
 </div>
